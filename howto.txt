@@ -1,0 +1,2 @@
+Zum Kompilieren, etwa folgenden Befehl auf der Bash-Kommandozeile verwenden:
+g++ -Wall LB_KA_01.cpp -lsodium -lgmpxx -lgmp -o LB_KA_01
