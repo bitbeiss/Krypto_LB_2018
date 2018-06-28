@@ -1,3 +1,8 @@
+/*
+AUTHOR: Mag. Clemens J. Zuzan
+YEAR: 2018
+*/
+
 #ifndef CAESAR_H
 #define CAESAR_H
 

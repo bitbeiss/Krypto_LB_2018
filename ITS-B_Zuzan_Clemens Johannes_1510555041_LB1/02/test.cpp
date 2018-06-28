@@ -1,3 +1,9 @@
+
+/*
+AUTHOR: Mag. Clemens J. Zuzan
+YEAR: 2018
+*/
+
 //Haeuffigkeitsanalyse
 //LB-HA01
 
